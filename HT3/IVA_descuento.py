@@ -33,6 +33,3 @@ cesta = {'Leche' : 7.5, 'Huevos' : 31, 'Azúcar' : 5, 'Frijol' : 7, 'Arroz' : 4}
 
 
 
-
-
-
